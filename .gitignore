@@ -9,3 +9,12 @@ wheels/
 # Virtual environments
 .venv
 docs
+
+# TinyCoder data
+.tinycoder/
+
+#环境变量
+.env
+
+#trae生成的文件
+.trae/
